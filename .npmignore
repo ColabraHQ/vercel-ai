@@ -1,0 +1,7 @@
+    # Ignore development and example folders
+    /examples
+    /tests
+
+    # Ignore CI/CD and other config files
+    /.github
+    /.changeset
